@@ -29,7 +29,7 @@ picBtn.onclick = function (){
 
 portBtn.onclick = function(){
     portfolio.style.left = '0px';
-    portfolio.style.opacity = '1px';
+    portfolio.style.opacity = '1';
     pics.style.left = '-500px';
     pics.style.opacity = '0';
     details.style.opacity = '0';
