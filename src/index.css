@@ -88,6 +88,8 @@ img {
      width: 18rem;
      height: 24rem;
      margin-top: 0px;
+     padding-top: -9px;
+     /*opacity: 0;*/
 }
 
 
