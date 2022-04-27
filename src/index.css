@@ -103,14 +103,18 @@ img {
 
 .avatar{
    vertical-align: middle;
-   width: 5px;
-   height: 25px;
+   width: 100px;
+   height: 100px;
    border-radius: 50%;
    border:3px solid black;
    margin: 10px;
-   margin-top: -700px;
+   margin-top: -500px;
    float: right;
    
+}
+
+#about {
+    margin-top: -490px;
 }
 
 
