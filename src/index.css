@@ -101,6 +101,10 @@ img {
     opacity: 0;
 }
 
+#about {
+    opacity: 0;
+}
+
 .avatar{
    vertical-align: middle;
    width: 100px;
